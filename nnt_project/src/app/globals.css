@@ -1,0 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --font-family-sans: 'inter-regular', system-ui, sans-serif;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-ExtraLight';
+    src: url(../fonts/SourceSansPro-ExtraLight.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-Light';
+    src: url(../fonts/SourceSansPro-Light.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-Regular';
+    src: url(../fonts/SourceSansPro-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-SemiBold';
+    src: url(../fonts/SourceSansPro-SemiBold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-Bold';
+    src: url(../fonts/SourceSansPro-Bold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend-Bold';
+    src: url(../fonts/Lexend-Bold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend-Regular';
+    src: url(../fonts/Lexend-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend-Light';
+    src: url(../fonts/Lexend-Light.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend-Medium';
+    src: url(../fonts/Lexend-Medium.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend-SemiBold';
+    src: url(../fonts/Lexend-SemiBold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lexend-ExtraBold';
+    src: url(../fonts/Lexend-ExtraBold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-Bold';
+    src: url(../fonts/inter-Bold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-ExtraBold';
+    src: url(../fonts/inter-ExtraBold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-ExtraLight';
+    src: url(../fonts/inter-ExtraLight.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-Light';
+    src: url(../fonts/inter-Light.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-Medium';
+    src: url(../fonts/inter-Medium.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-Regular';
+    src: url(../fonts/inter-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-SemiBold';
+    src: url(../fonts/inter-SemiBold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'inter-Thin';
+    src: url(../fonts/inter-Thin.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@layer base {
+    html {
+        font-family: "inter-Regular", system-ui, sans-serif;
+    }
+}
